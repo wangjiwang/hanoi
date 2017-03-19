@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489906578 source:e:\algorithm\hanotwo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
